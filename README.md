@@ -8,7 +8,7 @@ No way that could go wrong...
 Anyway, I pulled the data from the vote with an 
 [R script](https://github.com/brry/boaty/blob/master/Boaty.R)
 and arranged it into an 
-[excel file](https://github.com/brry/boaty/blob/master/Boaty.xlsx).  
+[excel file](https://github.com/brry/boaty/raw/master/Boaty.xlsx).  
 RRS stands for Royeal Research Ship, by the way...  
 I also selected my personal top 170 humorous entries:
  <br/>   
